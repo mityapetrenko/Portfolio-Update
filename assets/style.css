@@ -1,0 +1,23 @@
+h1{
+    font-size: 25px;
+}
+
+.wrapper{
+    background-color: #2a2b34;
+}
+p{
+    color:white;
+    font-size: 20px;
+    
+}
+.btn{
+    background-color: lightblue;
+    color:black;
+}
+.card{
+    background-color: orange;
+}
+#navContent{
+    color:black;
+    font-size: 20px;
+}
