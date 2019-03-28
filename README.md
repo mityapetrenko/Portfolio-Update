@@ -1,2 +1,2 @@
 # Portfolio-Update
-https://github.com/mityapetrenko/Portfolio-Update
+ https://mityapetrenko.github.io/Portfolio-Update/
